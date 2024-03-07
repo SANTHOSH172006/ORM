@@ -42,7 +42,7 @@ admin.site.register(Book_DB,Book_DBAdmin)
 ```
 ## OUTPUT
 ![alt text](<Screenshot 2024-03-07 222950.png>)
-
+![alt text](<Screenshot 2024-03-07 230100.png>)
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
